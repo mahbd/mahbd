@@ -11,7 +11,7 @@
 
 <a href="https://github.com/mahbd">
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbd" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbd&m=1" />
 </a>
 
 ### 💪 Experienced with:
