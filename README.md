@@ -40,7 +40,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahbd&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbd&layout=compact&theme=vue&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbd&layout=compact&theme=vue&hide_border=true&langs_count=6" />
 
 ### 🌎 Let's connect
 
