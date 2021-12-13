@@ -1,10 +1,10 @@
 ### 👨‍🚀 About Me
 
-- 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Artificial Intelligence
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Python
-- 📫 How to reach me: [Facebook](https://fb.com/mahmudulb2000/)
+- 📫 How to reach me: [Facebook](https://fb.com/mahmudulk2000/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Drama Lover
 <br>
