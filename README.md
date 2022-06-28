@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Python
-- 📫 How to reach me: [Facebook](https://fb.com/mahmudulk2000/)
+- 📫 How to reach me: [Facebook](https://fb.com/mahmudul.dev/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Drama Lover
   <br>
@@ -65,10 +65,10 @@
 
 <a  href="https://www.linkedin.com/in/mahmudula2000/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a  href="https://facebook.com/mahmudulb2000"><img  alt="Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a  href="https://facebook.com/mahmudul.dev"><img  alt="Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 &nbsp;
 <a  href="mailto:mahmudula2000@gmail.com"><img  alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a  href="https://t.me/mahmudulk2000"><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a  href="https://t.me/mahmudula2000"><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 &nbsp;
 </div>
