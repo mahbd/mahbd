@@ -1,4 +1,10 @@
 <div style="background-color: black">
+
+[![Badge](https://cp-logo.vercel.app/leetcode/kiri2020)](https://leetcode.com/kiri2020/)
+[![Badge](https://cp-logo.vercel.app/codeforces/af91k)](https://codeforces.com/profile/af91k)
+[![Badge](https://cp-logo.vercel.app/atcoder/mahmudula2000)](https://atcoder.jp/users/mahmudula2000)
+
+
 <div align="center"><img width="25%" height="auto" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/256/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmudul Alam</h1>
